@@ -6,7 +6,7 @@ const images = ['imge1', 'image2', 'image3'];
    setInterval(()=>{
     currentIndex++;
    },1000);
-
+//this is a comment
  }
 
  console.log(currentIndex);
